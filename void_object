@@ -1,0 +1,10 @@
+public class Test {
+    void add(int a, int b) {
+        System.out.print(a + b);
+    }
+
+    public static void main(String[] args) {
+        Test obj = new Test();
+        obj.add(5, 10);
+    }
+}
