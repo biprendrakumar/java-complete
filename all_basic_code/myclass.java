@@ -1,3 +1,4 @@
+package all_basic_code;
 public class myclass {
     public static void main(String[] args) {
         int i=20;
